@@ -18,10 +18,6 @@ description: "MassAITC Resources"
 
 ## Practical Issues in Implementation of mHealth studies for Older Adults
 
-Fitness gadgets such as ​Fitbit​, ​Apple Watch,​ ​Android Wear,​ and smartphone apps such as ​RunKeeper​ and M​oves​ calculate activity patterns, calories burned each day, track sleep patterns, and compute heart rate. We will learn how to build the computational elements for developing such applications by leveraging various sensors on smartphones, including the accelerometer, camera, microphone, and GPS. This is a hands-on course where students learn by doing! 
-
-### Introduction
-
 Conducting a mobile health (mHealth) study involving older adults, particularly those with dementia and their caregivers, presents several challenges that requires a deep understanding of various complex aspects from clinical knowledge to technical expertise in sensors and AI, to the use of a variety of mobile and IoT platforms. This complexity is magnified by the need to use different tools and methodologies that can reliably capture and interpret multi-modal data obtained from sensors and assessments.
 
 We outline some key components of running an mHealth study with older adults and tools available to reduce the burden of developing the infrastructure needed to execute such a study/
@@ -32,7 +28,7 @@ Recruiting participants, particularly dyads of dementia patients and their careg
 ### [Software Infrastructure](software.html) 
 Effective data collection from wearables and home sensors relies on robust software infrastructure. This infrastructure must support seamless data integration, real-time processing, and user-friendly interfaces for both researchers and participants. [Detailed exploration of software solutions](software.html).
 
-### [Assessment Instruments for Cognitive Function & Behavior](assessment.html) 
+### [Assessment Instruments for Cognitive Function \& Behavior](assessments.html) 
 Utilizing the right assessment tools to measure cognitive and behavioral changes in dementia is vital. These tools must be sensitive enough to detect subtle changes over time, contributing to the overall understanding of the progression and management of the disease. [Further information on assessment instruments](assessment.html).
 
 ### [Survey Instruments](EMA.html) 
