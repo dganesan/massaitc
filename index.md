@@ -20,7 +20,6 @@ description: "MassAITC Resources"
 
 Fitness gadgets such as ​Fitbit​, ​Apple Watch,​ ​Android Wear,​ and smartphone apps such as ​RunKeeper​ and M​oves​ calculate activity patterns, calories burned each day, track sleep patterns, and compute heart rate. We will learn how to build the computational elements for developing such applications by leveraging various sensors on smartphones, including the accelerometer, camera, microphone, and GPS. This is a hands-on course where students learn by doing! 
 
-<!---
 ### Introduction
 
 Conducting a mobile health (mHealth) study involving older adults, particularly those with dementia and their caregivers, presents several challenges that requires a deep understanding of various complex aspects from clinical knowledge to technical expertise in sensors and AI, to the use of a variety of mobile and IoT platforms. This complexity is magnified by the need to use different tools and methodologies that can reliably capture and interpret multi-modal data obtained from sensors and assessments.
