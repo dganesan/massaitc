@@ -4,8 +4,8 @@ markdown: kramdown
 # use_math: true
 usemathjax: true
 
-title: mHealth Analytics 
-description: A learning resource for understanding mobile sensor data analytics
+title: MassAITC Resources
+description: A learning resource for MassAITC pilots
 
 gems:
   - jekyll-inline-svg
@@ -14,7 +14,7 @@ gems:
 # See: https://jekyllrb.com/docs/configuration/incremental-regeneration/
 incremental: true
 
-# site.url: https://dganesan.github.io/mhealth-course
+# site.url: https://dganesan.github.io/massaitc
 # Make absolute paths work with GitHub pages
-baseurl: /mhealth-course
+baseurl: /massaitc
 
