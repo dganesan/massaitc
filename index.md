@@ -25,8 +25,8 @@ We outline some key components of running an mHealth study with older adults and
 ### [Recruitment of ADRD Dyads](recruitment.html) 
 Recruiting participants, particularly dyads of dementia patients and their caregivers, is crucial and challenging. This involves not only identifying and engaging suitable candidates but also ensuring their commitment for the duration of the study. Strategies to maintain participation and compliance are critical for collecting valid and reliable data. [More about recruitment strategies](recruitment.html).
 
-### [Software Infrastructure](software.html) 
-Effective data collection from wearables and home sensors relies on robust software infrastructure. This infrastructure must support seamless data integration, real-time processing, and user-friendly interfaces for both researchers and participants. [Detailed exploration of software solutions](software.html).
+### [Software Platforms for Pilot Studies with sensors, EMAs, and participant recruitment](software-platforms.html) 
+Effective data collection from wearables and home sensors relies on robust software infrastructure. This infrastructure must support seamless data integration, real-time processing, and user-friendly interfaces for both researchers and participants. [Detailed exploration of software solutions](software-platforms.html).
 
 ### [Assessment Instruments for Cognitive Function \& Behavior](assessments.html) 
 Utilizing the right assessment tools to measure cognitive and behavioral changes in dementia is vital. These tools must be sensitive enough to detect subtle changes over time, contributing to the overall understanding of the progression and management of the disease. [Further information on assessment instruments](assessments.html).
