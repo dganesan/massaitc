@@ -27,7 +27,7 @@ There are a number of tradeoffs when selecting a platform to run your mHealth st
 
 Ultimately, the speaker emphasizes that there is no perfect solution, and researchers should strive to find the best compromise based on their specific needs and resources. Regardless of the chosen approach, mobile health studies are becoming increasingly complex and sophisticated, requiring extensive testing and collaboration with experts in different fields. Researchers should expect trade-offs and be prepared to handle bugs and unexpected issues.
 
-Below, we describe two available platforms, one commercial from CareEvolution which supports many remote studies including the {All of Us} study [https://careevolution.com/case-studies/facilitating-precision-medicine-research-through-the-all-of-us-research-program/], and one research grade from a large consortium performing AD-specific mHealth studies.
+Below, we describe two available platforms, one commercial from CareEvolution which supports many remote studies including the [All of Us study](https://careevolution.com/case-studies/facilitating-precision-medicine-research-through-the-all-of-us-research-program/), and one research grade from a large consortium performing AD-specific mHealth studies.
 
 ### Care Evolution
 
