@@ -31,7 +31,7 @@ Effective data collection from wearables and home sensors relies on robust softw
 ### [Assessment Instruments for Cognitive Function \& Behavior](assessments/assessments.html) 
 Utilizing the right assessment tools to measure cognitive and behavioral changes in dementia is vital. These tools must be sensitive enough to detect subtle changes over time, contributing to the overall understanding of the progression and management of the disease. [Further information on assessment instruments](assessments/assessments.html).
 
-<!---
+<!----
 
 ### [Survey Instruments](EMA.html) 
 Implementing Ecological Momentary Assessments (EMA) via smartphones allows for the collection of real-time data on participants' behavior and symptoms in their natural environments. This method reduces recall bias and provides a more accurate representation of daily functioning. [Insights into survey methods](EMA.html).
