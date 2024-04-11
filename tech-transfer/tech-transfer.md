@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tech Transfer
-nav_order: 7
+nav_order: 6
 parent: MassAITC Resources
 has_children: true
 usemathjax: true

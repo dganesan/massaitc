@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Data Smoothing
-nav_order: 1
-parent: Mobile Sensing &amp; Analytics
+title: Study Design
+nav_order: 5
+parent: MassAITC Resources
 has_children: true
 usemathjax: true
-description: "Smoothing and Filtering"
+description: "Study Design and IRB"
 ---
-## Data Smoothing and Filtering
+## Study Design and IRB
 {: .no_toc }
 
 ## Table of Contents

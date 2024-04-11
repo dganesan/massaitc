@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Software Infrastructure
-nav_order: 3
+nav_order: 2
 parent: MassAITC Resources
 has_children: true
 usemathjax: true
