@@ -3,6 +3,7 @@ layout: default
 title: Functional Assessments
 nav_order: 2
 parent: Assessments
+grand_parent: MassAITC Resources
 has_children: true
 usemathjax: true
 description: "Functional Assessments"
