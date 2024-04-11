@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wearables
-nav_order: 2
+nav_order: 2	
 parent: Software Infrastructure
 grandparent: MassAITC Resources
 has_children: true

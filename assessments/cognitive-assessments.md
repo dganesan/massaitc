@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Assessment Instruments for Cognitive Function & Behavior
+title: Cognitive Assessments
 nav_order: 1
 parent: Assessments
 grand_parent: MassAITC Resources
 has_children: true
 usemathjax: true
-description: "Assessment Instruments"
+description: "Cognitive Assessments"
 ---
-## Assessment Instruments for Cognitive Function & Behavior
+## Assessment Instruments for Cognitive Function
 {: .no_toc }
 
 ## Table of Contents
@@ -18,7 +18,7 @@ description: "Assessment Instruments"
 {:toc}
 ---
 
-## Assessment Instruments for Cognitive Function & Behavior
+## Assessment Instruments for Cognitive Function
 
 The ubiquity of smartphones and tablets has led to a shift from traditional lab-based cognitive assessments to remote testing. Traditional cognitive testing typically occurs in controlled lab or clinic-based settings, where participants complete pen-and-paper tests. This method ensures a standardized environment but fails to capture the complexities of cognitive function over time and across different contexts. In contrast, remote testing via smartphones offers significant advantages including increased accessibility, enabling a broader and more diverse participant pool. It also supports continuous monitoring, which helps in detecting subtle cognitive changes and understanding variable interactions more effectively. Moreover, remote testing can reduce logistical costs and can boost participant engagement through gamified elements. 
 
