@@ -3,7 +3,7 @@ layout: default
 title: Wearables
 nav_order: 2	
 parent: Software Infrastructure
-grandparent: MassAITC Resources
+grand_parent: MassAITC Resources
 has_children: true
 usemathjax: true
 description: "Wearables"
