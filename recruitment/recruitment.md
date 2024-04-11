@@ -2,7 +2,7 @@
 layout: default
 title: Recruitment
 nav_order: 1
-parent: Mobile Sensing &amp; Analytics
+parent: MassAITC Resources
 has_children: true
 usemathjax: true
 description: "Recruitment"
