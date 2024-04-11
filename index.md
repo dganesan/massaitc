@@ -28,7 +28,7 @@ Recruiting participants, particularly dyads of dementia patients and their careg
 ### [Software Platforms for Pilot Studies with sensors, EMAs, and participant recruitment](software-platforms/software-platforms.html) 
 Effective data collection from wearables and home sensors relies on robust software infrastructure. This infrastructure must support seamless data integration, real-time processing, and user-friendly interfaces for both researchers and participants. [Detailed exploration of software solutions](software-platform/software-platforms.html).
 
-### [Assessment Instruments for Cognitive, Functional and Behavioral status]
+### Assessment Instruments for Cognitive, Functional and Behavioral status
 Utilizing the right assessment tools to measure cognitive, functional and behavioral changes in dementia is vital. These tools must be sensitive enough to detect subtle changes over time, contributing to the overall understanding of the progression and management of the disease. Further information on [cognitive assessment](assessments/cognitive-assessments.html), [functional assessment](assessments/functional-assessments.html) and [behavioral assessment](assessments/behavioral-assessments.html).
 
 <!----
