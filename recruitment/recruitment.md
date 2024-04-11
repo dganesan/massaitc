@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Smoothing
-nav_order: 1
+nav_order: 2
 parent: Mobile Sensing &amp; Analytics
 has_children: true
 usemathjax: true
