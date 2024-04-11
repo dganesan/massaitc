@@ -47,6 +47,8 @@ Developing AI models to interpret time-series and multi-modal sensor data can un
 ### [Study Design and IRB](study-design/study-design.html) 
 Designing an mHealth study involves careful planning to ensure the study's scientific validity while protecting the rights and well-being of participants. This includes obtaining approval from Institutional Review Boards (IRB), which scrutinize the study design, the informed consent process, and the safety measures for participants. [Guidance on study design and IRB approval](study-design/study-design.html).
 
+### [Tech Transfer](tech-transfer/tech-transfer.html) 
+Blah blah. [Guidance on tech transfer](tech-transfer/tech-transfer.html).
 
 
 
