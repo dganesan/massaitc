@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Behavioral and Psychological Assessments
-nav_order: 2
-parent: MassAITC Resources
+nav_order: 3
+parent: Assessments
 has_children: true
 usemathjax: true
 description: "Behavioral and Psychological Assessments"

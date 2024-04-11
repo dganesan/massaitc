@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Assessment Instruments for Cognitive Function & Behavior
-nav_order: 2
-parent: MassAITC Resources
+nav_order: 1
+parent: Assessments
 has_children: true
 usemathjax: true
 description: "Assessment Instruments"
