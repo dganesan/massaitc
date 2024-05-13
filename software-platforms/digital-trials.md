@@ -45,18 +45,13 @@ Dr. Ramos showcases several research platforms launched by the Digital Trial Cen
 Dr. Ramos emphasizes the importance of addressing diversity, equity, and inclusion in digital research trials, as this approach can help overcome barriers to participation and ensure that study populations are representative of those most likely to benefit from the research. He also discusses the growing recognition of decentralized clinical trials by funding agencies like the NIH and highlights specific funding opportunities, such as the NIA's recent FOA on Alzheimer's disease and related dementias, which seeks to leverage digital tools and real-world data platforms.
 
 
-<details>
-<summary>Walk-through example of the CareEvolution Platform</summary>
 
 Here is a walk-through example of the CareEvolution Platform. **MyDataHelps Digital Clinical Trial & Research Platform** can be used to build robust digital clinical trials with real-world data using no code.
 
 1. **Recruitment & eConsent:** Recruit and eConsent more targeted participants in less time.
- - To start, you must register your account [here](https://designer.mydatahelps.org/StudyRegistration/DeveloperRegistration).
-
- - **Creating and Joining Workspaces:** To create projects, surveys, and recruitment notifications, you may want to create a workspace or join another that is accessible by registered users. A single user can be given access to multiple workspaces and can switch between them after logging in. More information can be found [here](https://support.mydatahelps.org/hc/en-us/articles/360022092813-Creating-and-Joining-Workspaces).
-
- - **Creating or Importing Surveys:** With MyDataHelps Designer's visual survey builder, you can create a variety of surveys, such as electronic patient-reported outcomes (ePROs), clinician-reported outcomes (ClinROs), and use ResearchKit Active Tasks to collect data from their phone's sensors. Learn how to build rich surveys [here](https://support.mydatahelps.org/hc/en-us/articles/360022100733-Creating-or-Importing-Surveys).
-
+    - To start, you must register your account [here](https://designer.mydatahelps.org/StudyRegistration/DeveloperRegistration).
+    - **Creating and Joining Workspaces:** To create projects, surveys, and recruitment notifications, you may want to create a workspace or join another that is accessible by registered users. A single user can be given access to multiple workspaces and can switch between them after logging in. More information can be found [here](https://support.mydatahelps.org/hc/en-us/articles/360022092813-Creating-and-Joining-Workspaces).
+    - **Creating or Importing Surveys:** With MyDataHelps Designer's visual survey builder, you can create a variety of surveys, such as electronic patient-reported outcomes (ePROs), clinician-reported outcomes (ClinROs), and use ResearchKit Active Tasks to collect data from their phone's sensors. Learn how to build rich surveys [here](https://support.mydatahelps.org/hc/en-us/articles/360022100733-Creating-or-Importing-Surveys).
     - **Setting Up a Project:** A project lets you invite participants, schedule the delivery of surveys to them, and report data collected in the surveys. First, you create an organization, you will also be prompted to name the first project. Upon creation, you will be taken to the project dashboard, where you can navigate to various project settings, try out your project, or add participants and segments.
     - **Enrolling Participants:** The project dashboard displays various enrollment methods based on which platforms are enabled for enrollment. You can refer to the Enrollment Overview for information on the different enrollment methods and how to enable them. From the Participants tab, you can manage participants in the project. You can issue invitations, see who's completed enrollment, and view a summary of project participation.
     - **Gathering and Exporting Data:** Participants you've invited to your project use the MyDataHelps app to join the project, answer surveys, and share their sensor data.
@@ -121,8 +116,6 @@ b.  **Sharing Sensor Data from MyDataHelps:** MyDataHelps can collect certain se
 3.  Garmin
 4.  Google Fit
 5.  Fitbit
-
-</details>
 
 
 ### Radar-AD
