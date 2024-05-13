@@ -32,4 +32,9 @@ NeuroUX facilitates cognitive and behavioural data collection for clinical and a
 
 Xpresso from MoCA is a test that was designed by the group that developed the MoCA Test—or Montreal Cognitive Assessment— which is a widely adopted medical screening test used by healthcare professionals for early detection of cognitive decline and mild cognitive impairment (MCI). XpressO is a smartphone and tablet version that is designed to quickly test memory and brain performance on an individual’s own device. The test takes about 7 minutes and assesses processing speed, executive function and memory and provides a performance score stating low or elevated risk of cognitive decline. The test was validated to have strong association with standard MoCA (~85\% accuracy in predicting MoCA score of < 25/30)
 
+[1] Klil‐Drori, Sivan, Katie C. Bodenstein, Lara Kojok, Johanna Gruber, Shuo Mila Sun, Youssef Ghantous, and Ziad S. Nasreddine. "Montreal Cognitive Assessment MoCA‐XpressO: Validation of a Digital Self‐administered Cognitive Pre‐screening Tool for the General Adult Population." Alzheimer's \& Dementia 19 (2023).
+
+[2] Klil-Drori S, Bodenstein KC, Sun S, et al. Montreal Cognitive Assessment (MoCA) XpressO: Validation of a digital self-administered cognitive prescreening tool. Journal of the American Geriatric Society. 2024; 1-7.
+
+
 

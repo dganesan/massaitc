@@ -52,4 +52,16 @@ Dr. Dunn presents two case studies to demonstrate the DBDP's capabilities in add
 
 To address the challenge of data deluge, Dr. Dunn discusses strategies for minimizing data volumes while maximizing the accuracy of digital biomarkers. These strategies include reducing signal-level data collection, developing application-driven data compression methods, and intelligently aggregating data. Dr. Dunn emphasizes the importance of collaboration within the mHealth community to leverage wearables and sensor data for patient empowerment, precision therapies, just-in-time interventions, and improved access to care.
 
+# LLM for mHealth
+
+In the paper "Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data," Kim et al. investigate the potential of large language models (LLMs) for delivering multimodal health predictions based on contextual information (e.g., user demographics, health knowledge) and physiological data (e.g., resting heart rate, sleep minutes). The authors evaluate eight state-of-the-art LLMs with diverse prompting and fine-tuning techniques on six public health datasets, covering thirteen consumer health prediction tasks in mental health, activity, metabolic, sleep, and cardiac assessment.
+
+The study finds that zero-shot prompting shows comparable results to task-specific baseline models, indicating that LLMs already have promising capabilities for health prediction tasks based on wearable data. Few-shot prompting with larger LLMs, such as GPT-3.5 and GPT-4, effectively grounds numerical time-series data, resulting in significant improvements over zero-shot learning and fine-tuned models in some tasks. The authors' fine-tuned model, Health-Alpaca, exhibits the best performance in 5 out of 13 tasks despite being substantially smaller than GPT-3.5 and GPT-4.
+
+Ablation studies highlight the effectiveness of context enhancement strategies, with the inclusion of health knowledge context in prompts significantly enhancing overall performance. The study demonstrates that constructing contextually rich prompts, combining user context, health knowledge, and temporal information, leads to synergistic improvement in LLM performance on health prediction tasks.
+
+The findings of this paper underscore the potential of LLMs as reasoning engines for wearable data, showcasing their ability to deliver accurate health predictions by leveraging contextual information and physiological data. The authors' work contributes to the growing body of research exploring the application of AI in the wearables domain, demonstrating the effectiveness of prompting and fine-tuning techniques in adapting LLMs to consumer health prediction tasks. The release of the fine-tuned model, Health-Alpaca, as an open-source LLM targeted for consumer health prediction tasks, further facilitates the adoption and advancement of AI in the wearables space.
+
+Kim, Yubin, Xuhai Xu, Daniel McDuff, Cynthia Breazeal, and Hae Won Park. "Health-llm: Large language models for health prediction via wearable sensor data." arXiv preprint arXiv:2401.06866 (2024).
+
 
