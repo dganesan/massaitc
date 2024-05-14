@@ -60,9 +60,9 @@ Here is a walk-through example of the CareEvolution Platform.
 2. **Sensor and EHR Data Collection:** MyDataHelps allows you to collect EHR data and sensor data collected from various health monitoring devices etc.
     - **Electronic Health Record (EHR) Data:** When creating a project, your team has the option to collect electronic health records (EHR) from participants. EHR data collection is only possible from providers who support FHIR connectivity standards. 
 
-<img src="images/sleep-study-enrolment-settings.png" height="341" />
-<img src="images/app-memory-test.png" width="30%" />
-<img src="images/app-tests.png" width="30%" />
+<img src="images/sleep-study-enrolment-settings.png" height="50" />
+<img src="images/app-memory-test.png" height="50" />
+<img src="images/app-tests.png" height="50" />
 
 <img src="images/apple-healthkit.png" width="30%" />
 <img src="images/create-workspace.png" width="30%" />
