@@ -44,9 +44,11 @@ Dr. Ramos showcases several research platforms launched by the Digital Trial Cen
 
 Dr. Ramos emphasizes the importance of addressing diversity, equity, and inclusion in digital research trials, as this approach can help overcome barriers to participation and ensure that study populations are representative of those most likely to benefit from the research. He also discusses the growing recognition of decentralized clinical trials by funding agencies like the NIH and highlights specific funding opportunities, such as the NIA's recent FOA on Alzheimer's disease and related dementias, which seeks to leverage digital tools and real-world data platforms.
 
-<img src="images/sleep-study-enrolment-settings.png" height="300" />
-<img src="images/app-memory-test.png" height="300" />
-<img src="images/app-tests.png" height="300" />
+<p float="left">
+<img src="images/sleep-study-enrolment-settings.png" height="100" />
+<img src="images/app-memory-test.png" height="100" />
+<img src="images/app-tests.png" height="100" />
+</p>
 
 <img src="images/apple-healthkit.png" width="30%" />
 <img src="images/create-workspace.png" width="30%" />
