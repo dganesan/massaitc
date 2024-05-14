@@ -44,19 +44,7 @@ Dr. Ramos showcases several research platforms launched by the Digital Trial Cen
 
 Dr. Ramos emphasizes the importance of addressing diversity, equity, and inclusion in digital research trials, as this approach can help overcome barriers to participation and ensure that study populations are representative of those most likely to benefit from the research. He also discusses the growing recognition of decentralized clinical trials by funding agencies like the NIH and highlights specific funding opportunities, such as the NIA's recent FOA on Alzheimer's disease and related dementias, which seeks to leverage digital tools and real-world data platforms.
 
-<details open markdown="block">
-  <summary>Click me</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
-</details>
-
-
-<details>
+<details markdown="block">
 <summary>Walk-through example of the CareEvolution Platform</summary>
 
 Here is a walk-through example of the CareEvolution Platform. **MyDataHelps Digital Clinical Trial & Research Platform** can be used to build robust digital clinical trials with real-world data using no code.
