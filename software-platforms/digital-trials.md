@@ -44,6 +44,22 @@ Dr. Ramos showcases several research platforms launched by the Digital Trial Cen
 
 Dr. Ramos emphasizes the importance of addressing diversity, equity, and inclusion in digital research trials, as this approach can help overcome barriers to participation and ensure that study populations are representative of those most likely to benefit from the research. He also discusses the growing recognition of decentralized clinical trials by funding agencies like the NIH and highlights specific funding opportunities, such as the NIA's recent FOA on Alzheimer's disease and related dementias, which seeks to leverage digital tools and real-world data platforms.
 
+<img src="images/sleep-study-enrolment-settings.png" height="300" />
+<img src="images/app-memory-test.png" height="300" />
+<img src="images/app-tests.png" height="300" />
+
+<img src="images/apple-healthkit.png" width="30%" />
+<img src="images/create-workspace.png" width="30%" />
+<img src="images/designer.png" width="30%" />
+
+<img src="images/healthkit-fitbit.png" width="30%" />
+<img src="images/mydatahelps-app.png" width="30%" />
+<img src="images/overview.png" width="30%" />
+
+<img src="images/sensor-ehr-settings.png" width="30%" />
+<img src="images/sensor-settings.png" width="30%" />
+<img src="images/sleep-study-dashboard.png" width="30%" />
+
 <details markdown="block">
 <summary>Walk-through example of the CareEvolution Platform</summary>
 
@@ -59,22 +75,6 @@ Here is a walk-through example of the CareEvolution Platform.
 
 2. **Sensor and EHR Data Collection:** MyDataHelps allows you to collect EHR data and sensor data collected from various health monitoring devices etc.
     - **Electronic Health Record (EHR) Data:** When creating a project, your team has the option to collect electronic health records (EHR) from participants. EHR data collection is only possible from providers who support FHIR connectivity standards. 
-
-<img src="images/sleep-study-enrolment-settings.png" height="10" />
-<img src="images/app-memory-test.png" height="10" />
-<img src="images/app-tests.png" height="10" />
-
-<img src="images/apple-healthkit.png" width="30%" />
-<img src="images/create-workspace.png" width="30%" />
-<img src="images/designer.png" width="30%" />
-
-<img src="images/healthkit-fitbit.png" width="30%" />
-<img src="images/mydatahelps-app.png" width="30%" />
-<img src="images/overview.png" width="30%" />
-
-<img src="images/sensor-ehr-settings.png" width="30%" />
-<img src="images/sensor-settings.png" width="30%" />
-<img src="images/sleep-study-dashboard.png" width="30%" />
 
 3.  **Sharing EHR Data from MyDataHelps:** When participants enroll in a project that has EHR data collection enabled, they will be prompted to enable the sharing of their health records. A participant just needs to click the prompt and follow the on-screen steps to connect their records to MyDataHelps.
 
