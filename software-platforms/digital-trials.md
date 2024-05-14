@@ -47,10 +47,10 @@ Dr. Ramos emphasizes the importance of addressing diversity, equity, and inclusi
 <details markdown="block">
 <summary>Walk-through example of the CareEvolution Platform</summary>
 
-Here is a walk-through example of the CareEvolution Platform. **MyDataHelps Digital Clinical Trial & Research Platform** can be used to build robust digital clinical trials with real-world data using no code.
+Here is a walk-through example of the CareEvolution Platform. 
 
-1. **Recruitment & eConsent:** Recruit and eConsent more targeted participants in less time.
-    - To start, you must register your account [here](https://designer.mydatahelps.org/StudyRegistration/DeveloperRegistration).
+1. **Recruitment & eConsent:**
+    - To start, register your account [here](https://designer.mydatahelps.org/StudyRegistration/DeveloperRegistration).
     - **Creating and Joining Workspaces:** To create projects, surveys, and recruitment notifications, you may want to create a workspace or join another that is accessible by registered users. A single user can be given access to multiple workspaces and can switch between them after logging in. More information can be found [here](https://support.mydatahelps.org/hc/en-us/articles/360022092813-Creating-and-Joining-Workspaces).
     - **Creating or Importing Surveys:** With MyDataHelps Designer's visual survey builder, you can create a variety of surveys, such as electronic patient-reported outcomes (ePROs), clinician-reported outcomes (ClinROs), and use ResearchKit Active Tasks to collect data from their phone's sensors. Learn how to build rich surveys [here](https://support.mydatahelps.org/hc/en-us/articles/360022100733-Creating-or-Importing-Surveys).
     - **Setting Up a Project:** A project lets you invite participants, schedule the delivery of surveys to them, and report data collected in the surveys. First, you create an organization, you will also be prompted to name the first project. Upon creation, you will be taken to the project dashboard, where you can navigate to various project settings, try out your project, or add participants and segments.
@@ -58,9 +58,9 @@ Here is a walk-through example of the CareEvolution Platform. **MyDataHelps Digi
     - **Gathering and Exporting Data:** Participants you've invited to your project use the MyDataHelps app to join the project, answer surveys, and share their sensor data.
 
 2. **Sensor and EHR Data Collection:** MyDataHelps allows you to collect EHR data and sensor data collected from various health monitoring devices etc.
-    - **Electronic Health Record (EHR) Data:** When creating a project, your team has the option to collect electronic health records (EHR) from participants. EHR data collection is only possible from providers who support FHIR connectivity standards. To enable EHR data collection the steps are shown below:
+    - **Electronic Health Record (EHR) Data:** When creating a project, your team has the option to collect electronic health records (EHR) from participants. EHR data collection is only possible from providers who support FHIR connectivity standards. 
 
-<img src="images/sleep-study-enrolment-settings.png" width="30%" />
+<img src="images/sleep-study-enrolment-settings.png" height="341" />
 <img src="images/app-memory-test.png" width="30%" />
 <img src="images/app-tests.png" width="30%" />
 
@@ -76,47 +76,15 @@ Here is a walk-through example of the CareEvolution Platform. **MyDataHelps Digi
 <img src="images/sensor-settings.png" width="30%" />
 <img src="images/sleep-study-dashboard.png" width="30%" />
 
-> Navigate to your Project.
->
-> Select the "Sensor & EHR Data" sidebar tab.
->
-> On the left side panel, click "EHR Data."
->
-> Check the "EHR data" checkbox.
->
-> Click "Save Sensor & EHR Data Settings."
+3.  **Sharing EHR Data from MyDataHelps:** When participants enroll in a project that has EHR data collection enabled, they will be prompted to enable the sharing of their health records. A participant just needs to click the prompt and follow the on-screen steps to connect their records to MyDataHelps.
 
-c.  **Sharing EHR Data from MyDataHelps:** When participants enroll in a project that has EHR data collection enabled, they will be prompted to enable the sharing of their health records. A participant just needs to click the prompt and follow the on-screen steps to connect their records to MyDataHelps.
+4.  **Enabling Sensor Data Collection:** MyDataHelps integrates with several major data services—including Apple Health, Google Fit, and Fitbit—to collect sensor data from wearables and mobile apps. It also allows you to collect Geographic sensor data, including weather and air quality, from other third-party services. Many of these services have dozens of sensor data types available, including steps and activity, nutrition and weight, heart rate and other vital signs, health records. Any sensor data you collect will be included in your project's data exports.
 
-c.  **Enabling Sensor Data Collection:** MyDataHelps integrates with several major data services—including Apple Health, Google Fit, and Fitbit—to collect sensor data from wearables and mobile apps. It also allows you to collect Geographic sensor data, including weather and air quality, from other third-party services. Many of these services have dozens of sensor data types available, including steps and activity, nutrition and weight, heart rate and other vital signs, health records. Any sensor data you collect will be included in your project's data exports.To enable sensor data collection for your project:
+5. **Limitations:** There are a few limitations in sensor data collection. The project settings specify which data services and sensor data types you have requested from each participant. The actual data collected will depend on several factors, including device capabilities, permissions, and participant demographics.
 
--   Go to your project and select the "Sensor & EHR Data" tab from the sidebar.
--   Select a sensor data collection service (e.g., Apple Health, Google Fit, etc.).
--   Select one or more data types to collect from that service.
--   Click "Save Sensor & EHR Data Settings" to save your changes. You can also click "Revert Changes" to undo your changes.
+6.  **Viewing Sensor Data:** Once you've set up sensor data collection for your project, sensor data will be included in the data exports. Selected sensor data is also available through the participant viewer. This can help you be sure that data is being collected, or help you investigate if a participant experiences issues with reporting their data. Additionally, HealthKit data can be viewed as "Summary Data" (default) or "Raw Data" (helpful for looking at specific JSON datapoint information). 
 
-> **Limitations:** There are a few limitations in sensor data collection. The project settings specify which data services and sensor data types you have requested from each participant. The actual data collected will depend on several factors, including device capabilities, permissions, and participant demographics.
-
-a.  **Viewing Sensor Data:** Once you've set up sensor data collection for your project, sensor data will be included in the data exports. Selected sensor data is also available through the participant viewer. This can help you be sure that data is being collected, or help you investigate if a participant experiences issues with reporting their data. Additionally, HealthKit data can be viewed as "Summary Data" (default) or "Raw Data" (helpful for looking at specific JSON datapoint information). To view sensor data for a participant:
-
-> Go to the Participants tab of the project settings screen.
->
-> Select a participant.
->
-> Select the appropriate sensor data tab: Apple HealthKit, Locations Visited (for Apple Location Tracking), Google Fit, or Fitbit. (The specific tabs available will vary depending on your project's sensor data settings.)
->
-> Browse the available data.
-
-b.  **Sharing Sensor Data from MyDataHelps:** MyDataHelps can collect certain sensor data from a participant's device, provided that:
--   The project has enabled sensor data collection.
-
-> MyDataHelps can collect sensor data from various sources:
-
-1.  Apple Health
-2.  Apple Location Tracking
-3.  Garmin
-4.  Google Fit
-5.  Fitbit
+7.  **Sharing Sensor Data from MyDataHelps:** MyDataHelps can collect certain sensor data from a participant's device, provided that the project has enabled sensor data collection.
 
 </details>
 
