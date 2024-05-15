@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Smartwatch and Ring Wearables
+title: Smartwatches and Rings
 nav_order: 2
 parent: Wearables
 grand_parent: MassAITC Resources
@@ -8,7 +8,7 @@ has_children: true
 usemathjax: true
 description: "Smartwatch Wearables"
 ---
-## Smartwatch Wearables
+## Smartwatch and Smartring Wearables
 {: .no_toc }
 
 ## Table of Contents
