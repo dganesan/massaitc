@@ -1,10 +1,8 @@
-<!----
 ---
 layout: default
 title: Smart Home
 nav_order: 3
-parent: Software Infrastructure
-grand_parent: MassAITC Resources
+parent: 
 has_children: true
 usemathjax: true
 description: "Smart Home"
@@ -18,7 +16,6 @@ description: "Smart Home"
 1. TOC
 {:toc}
 ---
----->
 The Physical or Functional activities, behavioral monitoring, and safety be tracked through at-home sensor implementations for Alzheimer's Disease and Related Dementias (ADRD). These home sensors allow non-intrusive data collection, providing caregivers and healthcare professionals with insights into the daily living activities and needs of ADRD patients. Here are a few examples of at-home sensors that are used for at-home data collection.
 
 Motion Sensors: Track movement throughout the home, helping to monitor activity levels and detect any unusual patterns that might indicate a fall or wandering. Examples: Philips Hue Motion Sensor, Samsung SmartThings Motion Sensor.
