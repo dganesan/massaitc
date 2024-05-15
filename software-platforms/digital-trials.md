@@ -72,7 +72,7 @@ Dr. Ramos emphasizes the importance of addressing diversity, equity, and inclusi
 Here is a walk-through example of the CareEvolution Platform. 
 
 1. **Recruitment & eConsent:**
-![image](images/mydatahelps-app.png){: style="float: left"}
+![image](images/mydatahelps-app.png){: style="float: left"; margin-right: 10em; height="25%" width="25%"}
     - To start, register your account [here](https://designer.mydatahelps.org/StudyRegistration/DeveloperRegistration).
     - **Creating and Joining Workspaces:** To create projects, surveys, and recruitment notifications, you may want to create a workspace or join another that is accessible by registered users. A single user can be given access to multiple workspaces and can switch between them after logging in. More information can be found [here](https://support.mydatahelps.org/hc/en-us/articles/360022092813-Creating-and-Joining-Workspaces).
     - **Creating or Importing Surveys:** With MyDataHelps Designer's visual survey builder, you can create a variety of surveys, such as electronic patient-reported outcomes (ePROs), clinician-reported outcomes (ClinROs), and use ResearchKit Active Tasks to collect data from their phone's sensors. Learn how to build rich surveys [here](https://support.mydatahelps.org/hc/en-us/articles/360022100733-Creating-or-Importing-Surveys).
