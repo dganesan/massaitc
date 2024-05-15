@@ -33,7 +33,7 @@ Ultimately, the speaker emphasizes that there is no perfect solution, and resear
 
 ### Care Evolution
 
-CareEvolution MyDataHelps is a platform for remote trials. The platform allows users to build surveys, schedule real-time notifications, launch projects, and digitally recruit participants without need to program. Participants join projects via the MyDataHelps app (available on iOS, Android, and web) to provide real-world participant health data from wearables, devices with EHR data, and EMAs. MyDataHelps integrates with a variety of wearable platforms including Apple Watch, Fitbit, Garmin, and others, as well as survey platforms such as RedCAP. They offer a free  account which allows you to invite and enroll up to 100 participants in your project. 
+CareEvolution MyDataHelps [[2]](#1) is a platform for remote trials. The platform allows users to build surveys, schedule real-time notifications, launch projects, and digitally recruit participants without need to program. Participants join projects via the MyDataHelps app (available on iOS, Android, and web) to provide real-world participant health data from wearables, devices with EHR data, and EMAs. MyDataHelps integrates with a variety of wearable platforms including Apple Watch, Fitbit, Garmin, and others, as well as survey platforms such as RedCAP. They offer a free  account which allows you to invite and enroll up to 100 participants in your project. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FXBL5xMj9ig?si=p6blVDPtcrKPLoVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -99,7 +99,7 @@ Here is a walk-through example of the CareEvolution Platform.
 
 ### Radar-AD
 
-RADAR-base is an open-source platform for real-time sensor data collection in observational studies and remote decentralized clinical trials with support for various sources such as wearable devices, mobile applications, APIs, and IoT devices. The platform aims to support the use of continuous connectivity and information provided by smartphones and wearable devices in research, with the long-term goal of improving people's quality of life in healthcare. RADAR-base has been used in over 45 research studies to study around 20 disease areas and is actively developed and maintained by a community of software engineers, architects, data scientists, and researchers.
+RADAR-base [[1]](#2) is an open-source platform for real-time sensor data collection in observational studies and remote decentralized clinical trials with support for various sources such as wearable devices, mobile applications, APIs, and IoT devices. The platform aims to support the use of continuous connectivity and information provided by smartphones and wearable devices in research, with the long-term goal of improving people's quality of life in healthcare. RADAR-base has been used in over 45 research studies to study around 20 disease areas and is actively developed and maintained by a community of software engineers, architects, data scientists, and researchers.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BRdDmd47u6U?si=UQV910C3UOonE_i9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -111,6 +111,11 @@ The demo concludes by showing data collected using the passive RMT app and Fitbi
 
 **References**
 
-[1] Ranjan, Yatharth, Zulqarnain Rashid, Callum Stewart, Pauline Conde, Mark Begale, Denny Verbeeck, Sebastian Boettcher, Richard Dobson, Amos Folarin, and RADAR-CNS Consortium. "RADAR-base: open source mobile health platform for collecting, monitoring, and analyzing data using sensors, wearables, and mobile devices." JMIR mHealth and uHealth 7, no. 8 (2019): e11734.
+<a id="1">[1]</a> 
+CareEvolution: Digital Ecosystem for Healthcare Innovation
+
+<a id="1">[2]</a> 
+Ranjan, Yatharth, Zulqarnain Rashid, Callum Stewart, Pauline Conde, Mark Begale, Denny Verbeeck, Sebastian Boettcher, Richard Dobson, Amos Folarin, and RADAR-CNS Consortium. "RADAR-base: open source mobile health platform for collecting, monitoring, and analyzing data using sensors, wearables, and mobile devices." JMIR mHealth and uHealth 7, no. 8 (2019): e11734.
+
 
 
