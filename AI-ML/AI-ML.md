@@ -52,7 +52,7 @@ Dr. Dunn presents two case studies to demonstrate the DBDP's capabilities in add
 
 To address the challenge of data deluge, Dr. Dunn discusses strategies for minimizing data volumes while maximizing the accuracy of digital biomarkers. These strategies include reducing signal-level data collection, developing application-driven data compression methods, and intelligently aggregating data. Dr. Dunn emphasizes the importance of collaboration within the mHealth community to leverage wearables and sensor data for patient empowerment, precision therapies, just-in-time interventions, and improved access to care.
 
-# LLM for mHealth
+## LLM for mHealth
 
 In the paper "Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data," Kim et al. investigate the potential of large language models (LLMs) for delivering multimodal health predictions based on contextual information (e.g., user demographics, health knowledge) and physiological data (e.g., resting heart rate, sleep minutes). The authors evaluate eight state-of-the-art LLMs with diverse prompting and fine-tuning techniques on six public health datasets, covering thirteen consumer health prediction tasks in mental health, activity, metabolic, sleep, and cardiac assessment.
 
