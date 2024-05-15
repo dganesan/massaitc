@@ -1,8 +1,8 @@
-<!----
 ---
 layout: default
 title: Recruitment
 nav_order: 0
+nav_exclude: true
 parent: MassAITC Resources
 has_children: true
 usemathjax: true
@@ -18,4 +18,3 @@ description: "Recruitment"
 {:toc}
 ---
 
----->
