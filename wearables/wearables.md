@@ -34,6 +34,6 @@ For pilots interested in tackling the issue of biased datasets to improve the va
 
 **References**
 
-[1] Guu, Ta-Wei, Marijn Muurling, Zunera Khan, Chris Kalafatis, Dag Aarsland, and Anna-Katharine Brem. "Wearable devices: underrepresentation in the ageing society." The Lancet Digital Health 5, no. 6 (2023): e336-e337.
+\[1\] Guu, Ta-Wei, Marijn Muurling, Zunera Khan, Chris Kalafatis, Dag Aarsland, and Anna-Katharine Brem. "Wearable devices: underrepresentation in the ageing society." The Lancet Digital Health 5, no. 6 (2023): e336-e337.
 
-[2] Perez MV, Mahaffey KW, Hedlin H, et al. Large-scale assessment of a smartwatch to identify atrial fibrillation. N Engl J Med 2019; 381: 1909–17.
+\[2\] Perez MV, Mahaffey KW, Hedlin H, et al. Large-scale assessment of a smartwatch to identify atrial fibrillation. N Engl J Med 2019; 381: 1909–17.
