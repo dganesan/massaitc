@@ -44,14 +44,9 @@ Dr. Ramos showcases several research platforms launched by the Digital Trial Cen
 
 Dr. Ramos emphasizes the importance of addressing diversity, equity, and inclusion in digital research trials, as this approach can help overcome barriers to participation and ensure that study populations are representative of those most likely to benefit from the research. He also discusses the growing recognition of decentralized clinical trials by funding agencies like the NIH and highlights specific funding opportunities, such as the NIA's recent FOA on Alzheimer's disease and related dementias, which seeks to leverage digital tools and real-world data platforms.
 
+
+
 <!---
-
-<p float="left">
-<img src="images/sleep-study-enrolment-settings.png" height="100" />
-<img src="images/app-memory-test.png" height="100" />
-<img src="images/app-tests.png" height="100" />
-</p>
-
 <img src="images/apple-healthkit.png" width="30%" />
 <img src="images/create-workspace.png" width="30%" />
 <img src="images/designer.png" width="30%" />
@@ -63,6 +58,7 @@ Dr. Ramos emphasizes the importance of addressing diversity, equity, and inclusi
 <img src="images/sensor-ehr-settings.png" width="30%" />
 <img src="images/sensor-settings.png" width="30%" />
 <img src="images/sleep-study-dashboard.png" width="30%" />
+![image](images/mydatahelps-app.png){: style="float: left"; margin-right: 10em; height="25%" width="25%"}
 
 -->
 
@@ -71,8 +67,14 @@ Dr. Ramos emphasizes the importance of addressing diversity, equity, and inclusi
 
 Here is a walk-through example of the CareEvolution Platform. 
 
+<p float="left">
+<img src="images/sleep-study-enrolment-settings.png" alt="drawing" width="100"/>
+<img src="images/app-memory-test.png" alt="drawing" width="100"/>
+<img src="images/app-tests.png" alt="drawing" width="100"/>
+</p>
+
 1. **Recruitment & eConsent:**
-![image](images/mydatahelps-app.png){: style="float: left"; margin-right: 10em; height="25%" width="25%"}
+
     - To start, register your account [here](https://designer.mydatahelps.org/StudyRegistration/DeveloperRegistration).
     - **Creating and Joining Workspaces:** To create projects, surveys, and recruitment notifications, you may want to create a workspace or join another that is accessible by registered users. A single user can be given access to multiple workspaces and can switch between them after logging in. More information can be found [here](https://support.mydatahelps.org/hc/en-us/articles/360022092813-Creating-and-Joining-Workspaces).
     - **Creating or Importing Surveys:** With MyDataHelps Designer's visual survey builder, you can create a variety of surveys, such as electronic patient-reported outcomes (ePROs), clinician-reported outcomes (ClinROs), and use ResearchKit Active Tasks to collect data from their phone's sensors. Learn how to build rich surveys [here](https://support.mydatahelps.org/hc/en-us/articles/360022100733-Creating-or-Importing-Surveys).
