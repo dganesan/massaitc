@@ -4,7 +4,7 @@ title: Sleep Wearables
 nav_order: 1
 parent: Wearables
 grand_parent: MassAITC Resources
-has_children: true
+has_children: false
 usemathjax: true
 description: "Sleep Wearables"
 ---

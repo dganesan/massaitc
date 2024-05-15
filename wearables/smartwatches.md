@@ -4,7 +4,7 @@ title: Smartwatches and Rings
 nav_order: 2
 parent: Wearables
 grand_parent: MassAITC Resources
-has_children: true
+has_children: false
 usemathjax: true
 description: "Smartwatch Wearables"
 ---

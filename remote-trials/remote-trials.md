@@ -3,7 +3,7 @@ layout: default
 title: Remote Digital Trials
 nav_order: 1
 parent: MassAITC Resources
-has_children: true
+has_children: false
 usemathjax: true
 description: "Remote Digital Trials"
 ---
