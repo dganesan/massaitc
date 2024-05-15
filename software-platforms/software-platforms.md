@@ -1,3 +1,4 @@
+<!----
 ---
 layout: default
 title: Software Infrastructure
@@ -16,7 +17,7 @@ description: "Software Infrastructure"
 1. TOC
 {:toc}
 ---
-
+---->
 ## Software Platforms for Remote Pilot Studies involving Sensors, EMAs, and Digital Recruitment
 
 The execution of pilot studies in the home requires a sophisticated software infrastructure designed to manage a range of processes from patient recruitment to data collection and analysis. This infrastructure must support seamless data integration from diverse sources, ensure robust data security, and comply with IRB standards. Advanced digital trial platforms are essential for managing these aspects, as they facilitate the efficient recruitment of participants, data capture, and ongoing participant management. Additionally, the integration of data from wearables and smart home sensors requires software solutions capable of handling and aggregating large streams of data.

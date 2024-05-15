@@ -1,3 +1,4 @@
+<!----
 ---
 layout: default
 title: Wearables
@@ -17,6 +18,7 @@ description: "Wearables"
 1. TOC
 {:toc}
 ---
+---->
 Collecting and managing data from wearable devices in Alzheimer's Disease and Related Dementias (ADRD) research involves platforms that can handle diverse types of data—ranging from physical activity and sleep patterns to heart rate variability and even cognitive function markers. These platforms are crucial for providing insights into the daily living and health status of individuals with ADRD, contributing to better care management and research advancements. 
 
 Fitbit Care: Fitbit offers a health platform that can be particularly useful in ADRD research for monitoring physical activity, sleep quality, and heart rate data. Fitbit Care provides tools for health coaching and interventions, making it possible to integrate wearable device data into patient care and research studies.

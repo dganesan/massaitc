@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Digital Trials
+title: Remote Digital Trials
 nav_order: 1
 parent: Software Infrastructure
 grand_parent: MassAITC Resources
 has_children: true
 usemathjax: true
-description: "Digital Trials"
+description: "Remote Digital Trials"
 ---
 ## Digital (Remote) Trial Platforms
 {: .no_toc }

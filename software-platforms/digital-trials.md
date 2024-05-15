@@ -1,3 +1,4 @@
+<!----
 ---
 layout: default
 title: Digital Trials
@@ -17,7 +18,7 @@ description: "Digital Trials"
 1. TOC
 {:toc}
 ---
-
+---->
 ## Digital (Remote) Trial Platforms 
 
 Digital trial platforms are pivotal in addressing the unique challenges posed by ADRD conditions. These platforms are designed to facilitate the complexities of conducting clinical trials in populations affected by cognitive impairments, ensuring that studies are efficient, patient-friendly, and yield high-quality data.  They also facilitate a variety of critical functions including participant recruitment, integration with wearables, smartphones and Internet of Things (IoT) devices, the deployment of Ecological Momentary Assessments (EMAs) and digital surveys such as RedCAP, and running different types of assessments. Effective software solutions can greatly simplify the time and effort to roll out a remote pilot study.
