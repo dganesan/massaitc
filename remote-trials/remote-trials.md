@@ -110,6 +110,8 @@ RADAR-base can also collect data from devices that send data to their own storag
 
 The demo concludes by showing data collected using the passive RMT app and Fitbit, which is then loaded into a data visualization tool. The data is structured by project name, subject ID, and data stream name, with folders containing timestamps of the data. The visualization includes 3D acceleration data, step count, battery level, connected Bluetooth devices, relative location, and time spent on various apps from the passive mobile app, as well as heart rate and step count data from Fitbit. The relative location data provides insight into the participant's movement without revealing their exact location, and correlations can be observed between the accelerometer data, step count, and heart rate when the participant is active.
 
+**References**
+
 [1] Ranjan, Yatharth, Zulqarnain Rashid, Callum Stewart, Pauline Conde, Mark Begale, Denny Verbeeck, Sebastian Boettcher, Richard Dobson, Amos Folarin, and RADAR-CNS Consortium. "RADAR-base: open source mobile health platform for collecting, monitoring, and analyzing data using sensors, wearables, and mobile devices." JMIR mHealth and uHealth 7, no. 8 (2019): e11734.
 
 
