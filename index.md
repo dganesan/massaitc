@@ -33,8 +33,10 @@ Effective data collection from wearables and home sensors relies on robust softw
 ### [Wearable Software Platforms](wearables/wearables.html) 
 Effective data collection from wearables and home sensors relies on robust software infrastructure. This infrastructure must support seamless data integration, real-time processing, and user-friendly interfaces for both researchers and participants. [Detailed exploration of software solutions](software-platform/software-platforms.html).
 
+<!----
 ### [SmartHome Sensor Platforms](smart-home/smart-home.html) 
 Effective data collection from wearables and home sensors relies on robust software infrastructure. This infrastructure must support seamless data integration, real-time processing, and user-friendly interfaces for both researchers and participants. [Detailed exploration of software solutions](smart-home/smart-home.html).
+---->
 
 ### [Assessment Instruments for Cognitive, Functional and Behavioral status](assessments/assessments.html)
 Utilizing the right assessment tools to measure cognitive, functional and behavioral changes in dementia is vital. These tools must be sensitive enough to detect subtle changes over time, contributing to the overall understanding of the progression and management of the disease. [Further information on assessments](assessments/assessments.html).
