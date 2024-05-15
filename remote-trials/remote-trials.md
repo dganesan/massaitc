@@ -99,7 +99,7 @@ Here is a walk-through example of the CareEvolution Platform.
 
 ### Radar-AD
 
-RADAR-base [[1]](#2) is an open-source platform for real-time sensor data collection in observational studies and remote decentralized clinical trials with support for various sources such as wearable devices, mobile applications, APIs, and IoT devices. The platform aims to support the use of continuous connectivity and information provided by smartphones and wearable devices in research, with the long-term goal of improving people's quality of life in healthcare. RADAR-base has been used in over 45 research studies to study around 20 disease areas and is actively developed and maintained by a community of software engineers, architects, data scientists, and researchers.
+RADAR-base [[2]](#2) is an open-source platform for real-time sensor data collection in observational studies and remote decentralized clinical trials with support for various sources such as wearable devices, mobile applications, APIs, and IoT devices. The platform aims to support the use of continuous connectivity and information provided by smartphones and wearable devices in research, with the long-term goal of improving people's quality of life in healthcare. RADAR-base has been used in over 45 research studies to study around 20 disease areas and is actively developed and maintained by a community of software engineers, architects, data scientists, and researchers.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BRdDmd47u6U?si=UQV910C3UOonE_i9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
