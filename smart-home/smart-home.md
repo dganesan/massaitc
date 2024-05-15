@@ -2,8 +2,7 @@
 layout: default
 title: Smart Home
 nav_order: 3
-parent: Software Infrastructure
-grand_parent: MassAITC Resources
+parent: 
 has_children: true
 usemathjax: true
 description: "Smart Home"

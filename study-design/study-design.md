@@ -2,7 +2,7 @@
 layout: default
 title: Study Design
 nav_order: 5
-parent: MassAITC Resources
+parent: 
 has_children: true
 usemathjax: true
 description: "Study Design and IRB"
