@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Recruitment
-nav_order: 1
+nav_order: 0
 parent: MassAITC Resources
 has_children: true
 usemathjax: true

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wearables
-nav_order: 1
+nav_order: 2
 parent: MassAITC Resources
 has_children: true
 usemathjax: true
