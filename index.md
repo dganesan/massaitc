@@ -47,7 +47,7 @@ Implementing Ecological Momentary Assessments (EMA) via smartphones allows for t
 ### [Sensor Signal Processing and Noise Removal](signal-processing.html) 
 The accuracy of data collected from sensors can be significantly impacted by noise and other extraneous signals. Effective signal processing techniques are essential to filter out these disturbances and extract meaningful information from the raw data. [Techniques for signal processing](signal-processing.html).
 
--->
+---->
 
 ### [AI and Machine Learning Models](AI-ML/AI-ML.html) 
 Developing AI models to interpret time-series and multi-modal sensor data can uncover patterns that human observers might miss. These models are crucial for predicting disease progression and potentially offering insights into personalized care strategies. [Advancements in AI and machine learning](AI-ML/AI-ML.html).
