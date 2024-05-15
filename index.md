@@ -58,7 +58,7 @@ Developing AI models to interpret time-series and multi-modal sensor data can un
 Designing an mHealth study involves careful planning to ensure the study's scientific validity while protecting the rights and well-being of participants. This includes obtaining approval from Institutional Review Boards (IRB), which scrutinize the study design, the informed consent process, and the safety measures for participants. [Guidance on study design and IRB approval](study-design/study-design.html).
 
 ### [Tech Transfer](tech-transfer/tech-transfer.html) 
-Intro sentence [Guidance on tech transfer](tech-transfer/tech-transfer.html).
+Translating mHealth innovations into practice involves navigating complex regulatory, commercial, and technological landscapes. [Guidance on tech transfer](tech-transfer/tech-transfer.html).
 
 
 
