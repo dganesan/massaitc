@@ -69,7 +69,7 @@ Here is a walk-through example of the CareEvolution Platform.
 <p float="left">
 <img src="images/mydatahelps-app.png" alt="drawing" width="200"/>
 <img src="images/app-memory-test.png" alt="drawing" width="225"/>
-<img src="images/app-tests.png" alt="drawing" width="250"/>
+<img src="images/app-tests.png" alt="drawing" width="230"/>
 </p>
 
 1. **Recruitment & eConsent:**
