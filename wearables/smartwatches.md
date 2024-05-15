@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Smartwatch and Ring Wearables
-nav_order: 1
+nav_order: 2
 parent: Wearables
 grand_parent: MassAITC Resources
 has_children: true
