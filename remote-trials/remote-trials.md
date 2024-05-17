@@ -37,6 +37,8 @@ Ultimately, the speaker emphasizes that there is no perfect solution, and resear
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xdmH4UaOBUA?si=uNgYSEZW9wVgOC0V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+</details>
+
 ### Care Evolution: A Platform for remote digital trials
 
 CareEvolution MyDataHelps [[2]](#1) is a platform for remote trials. The platform allows users to build surveys, schedule real-time notifications, launch projects, and digitally recruit participants without need to program. Participants join projects via the MyDataHelps app (available on iOS, Android, and web) to provide real-world participant health data from wearables, devices with EHR data, and EMAs. MyDataHelps integrates with a variety of wearable platforms including Apple Watch, Fitbit, Garmin, and others, as well as survey platforms such as RedCAP. They offer a free  account which allows you to invite and enroll up to 100 participants in your project. 
