@@ -26,16 +26,16 @@ Below, we describe two available platforms, one commercial from CareEvolution wh
 
 ### Tradeoffs when selecting an mHealth Platform 
 
-There are a number of tradeoffs when selecting a platform to run your mHealth study.
+There are a number of tradeoffs when selecting a platform to run your mHealth study including whether you want to develop your own platform or use an off-the-shelf solution, what specific features are needed for your research such as the types of sensor data you wish to collect, the devices that you wish to use, the types of assessments you wish to perform, and so on. In the below video at the mHealth Training Institute, Dr. Predjag Klasnja presents an overview of some of the options to consider and how to think about the tradeoffs when selecting a platform for your study.
 
 <details markdown="block">
 <summary>Talk by Dr. Predjag Klasnja  about tradeoffs when selecting an mHealth Platform</summary>
 
-In the below video at the mHealth Training Institute, Dr. Predjag Klasnja describes that there are various options to consider including commercial software and hardware, white label solutions, hybrid systems, and custom systems. Each approach has its advantages and disadvantages in terms of usability, functionality, cost, and technical requirements. Commercial software and hardware are polished and well-maintained but may lack specific features needed for research. White label solutions offer more customization and responsive technical support but can be expensive and may not fit all project requirements. Hybrid systems combine commercial components with custom code, allowing researchers to focus on novel features while leveraging existing functionality, but integration can be suboptimal. Custom systems provide the most control over the user experience and data collection but are complex, time-consuming, and prone to bugs. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xdmH4UaOBUA?si=uNgYSEZW9wVgOC0V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+In the above video at the mHealth Training Institute, Dr. Predjag Klasnja describes that there are various options to consider including commercial software and hardware, white label solutions, hybrid systems, and custom systems. Each approach has its advantages and disadvantages in terms of usability, functionality, cost, and technical requirements. Commercial software and hardware are polished and well-maintained but may lack specific features needed for research. White label solutions offer more customization and responsive technical support but can be expensive and may not fit all project requirements. Hybrid systems combine commercial components with custom code, allowing researchers to focus on novel features while leveraging existing functionality, but integration can be suboptimal. Custom systems provide the most control over the user experience and data collection but are complex, time-consuming, and prone to bugs. 
 
 Ultimately, the speaker emphasizes that there is no perfect solution, and researchers should strive to find the best compromise based on their specific needs and resources. Regardless of the chosen approach, mobile health studies are becoming increasingly complex and sophisticated, requiring extensive testing and collaboration with experts in different fields. Researchers should expect trade-offs and be prepared to handle bugs and unexpected issues.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xdmH4UaOBUA?si=uNgYSEZW9wVgOC0V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </details>
 
