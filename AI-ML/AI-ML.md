@@ -68,7 +68,7 @@ Overall, LLMs have the potential to positively impact dementia care by boosting 
 
 **LLM for mHealth Prediction via Wearable Sensor Data** Another question of interest to at-home monitoring is the role of LLMs in analyzing wearable sensor data.  In the paper "Health-LLM: Large Language Models for Health Prediction via Wearable Sensor Data,"  [[3]](#3)  Kim et al. investigate the potential of large language models (LLMs) for delivering multimodal health predictions based on contextual information (e.g., user demographics, health knowledge) and physiological data (e.g., resting heart rate, sleep minutes). The authors evaluate eight state-of-the-art LLMs with diverse prompting and fine-tuning techniques on six public health datasets, covering thirteen consumer health prediction tasks in mental health, activity, metabolic, sleep, and cardiac assessment.
 
-<img src="images/health-llm.png" width="30%" />
+<img src="images/health-llm.png" width="80%" />
 
 The study finds that zero-shot prompting shows comparable results to task-specific baseline models, indicating that LLMs already have promising capabilities for health prediction tasks based on wearable data. Few-shot prompting with larger LLMs, such as GPT-3.5 and GPT-4, effectively grounds numerical time-series data, resulting in significant improvements over zero-shot learning and fine-tuned models in some tasks. The authors' fine-tuned model, Health-Alpaca, exhibits the best performance in 5 out of 13 tasks despite being substantially smaller than GPT-3.5 and GPT-4.
 
