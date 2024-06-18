@@ -31,7 +31,7 @@ Recruiting participants, particularly dyads of dementia patients and their careg
 Digital trial platforms are essential for orchestrating remote pilot studies, enabling remote consent, integrating wearable data, and facilitating Ecological Momentary Assessments (EMAs) are essential to streamline the setup, execution, and management of remote pilot studies. [Detailed exploration of software solutions for conducting remote digital trials](remote-trials/remote-trials.html).
 
 ### [Wearable Software Platforms](wearables/wearables.html) 
-Effective data collection from wearables and home sensors relies on robust software infrastructure. This infrastructure must support seamless data integration, real-time processing, and user-friendly interfaces for both researchers and participants. [Detailed exploration of software solutions](software-platform/software-platforms.html).
+Effective data collection from wearables and home sensors relies on robust software infrastructure. This infrastructure must support seamless data integration, real-time processing, and user-friendly interfaces for both researchers and participants. [Detailed exploration of software solutions](wearables/wearables.html).
 
 <!----
 ### [SmartHome Sensor Platforms](smart-home/smart-home.html) 
