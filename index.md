@@ -20,7 +20,7 @@ description: "MassAITC Resources"
 
 Conducting a mobile health (mHealth) study involving older adults, particularly those with dementia and their caregivers, presents several challenges that requires a deep understanding of various complex aspects from clinical knowledge to technical expertise in sensors and AI, to the use of a variety of mobile and IoT platforms. This complexity is magnified by the need to use different tools and methodologies that can reliably capture and interpret multi-modal data obtained from sensors and assessments.
 
-We outline some key components of running an mHealth study with older adults and tools available to reduce the burden of developing the infrastructure needed to execute such a study/
+We outline some key components of running an mHealth study with older adults and tools available to reduce the burden of developing the infrastructure needed to execute such a study.
 
 <!----
 ### [Recruitment of ADRD Dyads](recruitment/recruitment.html) 
