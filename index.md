@@ -27,7 +27,7 @@ We outline some key components of running an mHealth study with older adults and
 Recruiting participants, particularly dyads of dementia patients and their caregivers, is crucial and challenging. This involves not only identifying and engaging suitable candidates but also ensuring their commitment for the duration of the study. Strategies to maintain participation and compliance are critical for collecting valid and reliable data. [More about recruitment strategies](recruitment/recruitment.html).
 -->
 
-### [Digital Trial Platforms for conducting remote pilot studies with remote consent, wearable integration, and EMAs](remote-trials/remote-trials.html) 
+### [Digital Trial Platforms for conducting remote pilot studies](remote-trials/remote-trials.html) 
 Digital trial platforms are essential for orchestrating remote pilot studies, enabling remote consent, integrating wearable data, and facilitating Ecological Momentary Assessments (EMAs) are essential to streamline the setup, execution, and management of remote pilot studies. [Detailed exploration of software solutions for conducting remote digital trials](remote-trials/remote-trials.html).
 
 ### [Wearable Software Platforms](wearables/wearables.html) 
