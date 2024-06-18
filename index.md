@@ -16,7 +16,7 @@ description: "MassAITC Resources"
 {:toc}
 ---
 
-## Practical Issues in Implementation of mHealth studies for Older Adults
+## Practical Challenges in Implementation of mHealth studies for Older Adults
 
 Conducting a mobile health (mHealth) study involving older adults, particularly those with dementia and their caregivers, presents several challenges that requires a deep understanding of various complex aspects from clinical knowledge to technical expertise in sensors and AI, to the use of a variety of mobile and IoT platforms. This complexity is magnified by the need to use different tools and methodologies that can reliably capture and interpret multi-modal data obtained from sensors and assessments.
 
